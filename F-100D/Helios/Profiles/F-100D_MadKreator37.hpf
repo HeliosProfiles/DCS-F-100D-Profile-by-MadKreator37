@@ -6915,7 +6915,7 @@
           <Hidden>True</Hidden>
           <Background>
             <Color>#CF000000</Color>
-            <Image>MadKreator37\F-100D\Background_Texture.png</Image>
+            <Image>MadKreator37\F-100D\Generic_Panel_Base.png</Image>
             <ImageAlignment>Stretched</ImageAlignment>
           </Background>
           <Border>
