@@ -8,7 +8,7 @@ This is a profile for Helios Virtual Cockpit to support the F-100D for DCS World
 
 ## Info
 
-This profile has been created by MadKreator37 and is maintained on [GitHub](https://github.com/HeliosProfiles/DCS-F-100D-Profile-by-MadKreator37) and is available under the GNU General Public License v3.0.
+This profile has been created by @MadKreator37 and is maintained on [GitHub](https://github.com/HeliosProfiles/DCS-F-100D-Profile-by-MadKreator37) and is available under the GNU General Public License v3.0.
 
 The latest version of this profile can be found [here](https://github.com/HeliosProfiles/DCS-F-100D-Profile-by-MadKreator37/releases/latest)
 
