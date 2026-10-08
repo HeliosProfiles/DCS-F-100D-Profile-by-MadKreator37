@@ -6281,7 +6281,7 @@
             <AllowInteractionLegacy>False</AllowInteractionLegacy>
           </Interaction>
           <Children>
-            <Control TypeIdentifier="Helios.Base.Image" Name="Image" SnapTarget="False" Locked="False">
+            <Control TypeIdentifier="Helios.Base.Image" Name="Image" SnapTarget="False" Locked="True">
               <Image>MadKreator37\F-100D\Buttons_Switches_Knobs\ACC_Button Bezel.png</Image>
               <Alignment>Stretched</Alignment>
               <CornerRadius>0</CornerRadius>
@@ -6290,7 +6290,35 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.Indicator" Name="Green Light 2 1" SnapTarget="True" Locked="False">
+            <Control TypeIdentifier="Helios.Base.PushButton" Name="KBL Button" SnapTarget="True" Locked="True">
+              <Location>10,6</Location>
+              <Size>44,34</Size>
+              <Hidden>False</Hidden>
+              <Type>Momentary</Type>
+              <Image>MadKreator37\F-100D\Buttons_Switches_Knobs\Generic_Norm.png</Image>
+              <PushedImage>MadKreator37\F-100D\Buttons_Switches_Knobs\Generic_Pressed.png</PushedImage>
+              <Text>
+                <Color>#FFA0D074</Color>
+                <Font>
+                  <FontFamily>MS 33558</FontFamily>
+                  <FontStyle>Normal</FontStyle>
+                  <FontWeight>Normal</FontWeight>
+                  <FontSize>24</FontSize>
+                  <HorizontalAlignment>Left</HorizontalAlignment>
+                  <VerticalAlignment>Top</VerticalAlignment>
+                  <Padding>
+                    <Left>0.255594023747008</Left>
+                    <Top>0</Top>
+                    <Right>0.255594023747008</Right>
+                    <Bottom>0</Bottom>
+                  </Padding>
+                </Font>
+                <Text>&lt;</Text>
+                <ScalingMode>Height</ScalingMode>
+              </Text>
+              <Children />
+            </Control>
+            <Control TypeIdentifier="Helios.Base.Indicator" Name="Green Light 2 1" SnapTarget="True" Locked="True">
               <OnImage>MadKreator37\F-100D\Indicators\Round_Ind_G.png</OnImage>
               <OffImage>MadKreator37\F-100D\Transparent_Image.png</OffImage>
               <Font>
@@ -6319,35 +6347,7 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.PushButton" Name="KBL Button" SnapTarget="True" Locked="False">
-              <Location>10,6</Location>
-              <Size>44,34</Size>
-              <Hidden>False</Hidden>
-              <Type>Momentary</Type>
-              <Image>MadKreator37\F-100D\Buttons_Switches_Knobs\Generic_Norm.png</Image>
-              <PushedImage>MadKreator37\F-100D\Buttons_Switches_Knobs\Generic_Pressed.png</PushedImage>
-              <Text>
-                <Color>#FFA0D074</Color>
-                <Font>
-                  <FontFamily>MS 33558</FontFamily>
-                  <FontStyle>Normal</FontStyle>
-                  <FontWeight>Normal</FontWeight>
-                  <FontSize>24</FontSize>
-                  <HorizontalAlignment>Left</HorizontalAlignment>
-                  <VerticalAlignment>Top</VerticalAlignment>
-                  <Padding>
-                    <Left>0.255594023747008</Left>
-                    <Top>0</Top>
-                    <Right>0.255594023747008</Right>
-                    <Bottom>0</Bottom>
-                  </Padding>
-                </Font>
-                <Text>&lt;</Text>
-                <ScalingMode>Height</ScalingMode>
-              </Text>
-              <Children />
-            </Control>
-            <Control TypeIdentifier="Helios.Base.Indicator" Name="Green Light 2" SnapTarget="True" Locked="False">
+            <Control TypeIdentifier="Helios.Base.Indicator" Name="Green Light 2" SnapTarget="True" Locked="True">
               <OnImage>MadKreator37\F-100D\Indicators\Round_Ind_G.png</OnImage>
               <OffImage>MadKreator37\F-100D\Transparent_Image.png</OffImage>
               <Font>
@@ -6376,7 +6376,7 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.Indicator" Name="Green Light 2 1 1" SnapTarget="True" Locked="False">
+            <Control TypeIdentifier="Helios.Base.Indicator" Name="Green Light 2 1 1" SnapTarget="True" Locked="True">
               <OnImage>MadKreator37\F-100D\Indicators\Round_Ind_G.png</OnImage>
               <OffImage>MadKreator37\F-100D\Transparent_Image.png</OffImage>
               <Font>
