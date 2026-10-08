@@ -14222,7 +14222,7 @@
           <TimerEnabled>True</TimerEnabled>
           <TimerInterval>12</TimerInterval>
           <Children>
-            <Control TypeIdentifier="Helios.Panel" Name="fade out panel" SnapTarget="True" Locked="False">
+            <Control TypeIdentifier="Helios.Panel" Name="fade out panel" SnapTarget="True" Locked="True">
               <Location>0,0</Location>
               <Size>415,293</Size>
               <Hidden>False</Hidden>
@@ -14254,7 +14254,7 @@
                     <FontFamily>Constantia</FontFamily>
                     <FontStyle>Normal</FontStyle>
                     <FontWeight>Normal</FontWeight>
-                    <FontSize>11</FontSize>
+                    <FontSize>12</FontSize>
                     <HorizontalAlignment>Center</HorizontalAlignment>
                     <VerticalAlignment>Center</VerticalAlignment>
                     <Padding>
