@@ -1,11 +1,12 @@
-# Helios Profile for F-100D by MadKreator37
+# Helios Profile for the F-100D Super Sabre, by MadKreator37
 This is a profile for Helios Virtual Cockpit to support the F-100D for DCS World.
 
 ### If you only want this profile * * DON'T  CLONE * * the repository.  Simply download the __helios16__ file from the **Assets** section at the bottom of the release.
-<img width="532" height="86" alt="Screenshot 2026-10-07 211733" src="https://github.com/user-attachments/assets/e68130d1-d286-4035-a65c-c8851a43a6fe" />
+<img width="1064" height="171" alt="Screenshot 2026-10-07 211733" src="https://github.com/user-attachments/assets/e49b6f54-fa9e-474d-b7dc-ed241500e690" />
 
 
-## The Profile
+
+## Info
 
 This profile has been created by MadKreator37 and is maintained on [GitHub](https://github.com/HeliosProfiles/DCS-F-100D-Profile-by-MadKreator37) and is available under the GNU General Public License v3.0.
 
@@ -15,11 +16,11 @@ The latest version of this profile can be found [here](https://github.com/Helios
 
 This is a profile for Helios Virtual Cockpit software, for use with DCS World
 This profile utilises an updated set of JSON interfaces which have been contributed to was written into the Helios Virtual Cockpit project called **Helios**.  This can be downloaded from [Helios latest release](https://github.com/HeliosVirtualCockpit/Helios/releases/latest)
-### ABOUT
+## ABOUT THE PROFILE
 
 ### Minimum Helios version required: 1.6.620.000
-
-### Please download and install via the Helios16 installer under ASSETS. Do not clone the repo and copy the files. The profile will not function correctly!
+### Aspect Ratio-  16:9
+### Default Resolution- 1920x1080 96dpi
 
 This profile was designed and created by myself, in close collaboration with Bluefin. All parts were cut and modified from the 3d model of the F-100D cockpit, texture files or replicas were designed and created from scratch. Every piece used is specific to the F-100D.  
 The hope is to bring you the most complete, visually appealing and easy to use profile for the F-100D in DCS that we could.  There are several added functions in the profile, such as buttons for rearm/refuel window, briefing menu, f-keys, kneeboard functions etc.
@@ -28,6 +29,7 @@ The hope is to bring you the most complete, visually appealing and easy to use p
 
 Special thanks to @BlueFinBima for all of his contributions, assistance, custom device creation, repository help and more!
 
+## Please download and install via the Helios16 installer under ASSETS. Do not clone the repo and copy the files. The profile will not function correctly!
 
 ### IMAGES
 <img width="960" height="540" alt="Screenshot 2026-10-07 210239" src="https://github.com/user-attachments/assets/14bd2ab5-7371-483c-9064-65c8f633c621" />
