@@ -31,6 +31,14 @@ Special thanks to @BlueFinBima for all of his contributions, assistance, custom 
 
 ## Please download and install via the Helios16 installer under ASSETS. Do not clone the repo and copy the files. The profile will not function correctly!
 
+### Versions
+
+-1.0.1
+    1. Added forgotten ADI/ Stby ADI off flags.
+	2. Fixed incorrect IFF Mode3 wheel image path.
+	3. Images scrubbed to remove unused.
+
+
 ### IMAGES
 <img width="960" height="540" alt="Screenshot 2026-10-07 210239" src="https://github.com/user-attachments/assets/14bd2ab5-7371-483c-9064-65c8f633c621" />
 <img width="960" height="540" alt="Screenshot 2026-10-07 210302" src="https://github.com/user-attachments/assets/5a875071-e03e-4b7a-a42e-2dac4ea486df" />

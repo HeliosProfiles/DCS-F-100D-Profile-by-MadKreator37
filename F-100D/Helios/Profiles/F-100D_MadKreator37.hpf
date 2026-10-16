@@ -3251,6 +3251,25 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
+            <Control TypeIdentifier="Helios.Base.CustomGauge" Name="CustomGauge" SnapTarget="True" Locked="True">
+              <Location>16,127</Location>
+              <Size>100,100</Size>
+              <Hidden>False</Hidden>
+              <BGPlateImage />
+              <KnobImage>MadKreator37\F-100D\Needles_Tapes_Pointers\Stby_ADI_Off.png</KnobImage>
+              <Needle_Scale>0.236933797909408</Needle_Scale>
+              <Needle_PosX>0.380923344947734</Needle_PosX>
+              <Needle_PosY>0.241637630662022</Needle_PosY>
+              <Needle_PivotX>0.350174216027875</Needle_PivotX>
+              <Needle_PivotY>0.263066202090592</Needle_PivotY>
+              <InitialValue>0</InitialValue>
+              <StepValue>0.1</StepValue>
+              <MaxValue>1</MaxValue>
+              <MinValue>0</MinValue>
+              <InitialRotation>0</InitialRotation>
+              <RotationTravel>71.4982578397213</RotationTravel>
+              <Children />
+            </Control>
             <Control TypeIdentifier="Helios.Base.Image" Name="bezel" SnapTarget="False" Locked="False">
               <Image>MadKreator37\F-100D\Bezels_And_Faces\ADI_Bezel.png</Image>
               <Alignment>Stretched</Alignment>
@@ -3286,7 +3305,7 @@
             <AllowInteractionLegacy>False</AllowInteractionLegacy>
           </Interaction>
           <Children>
-            <Control TypeIdentifier="Helios.Base.CustomGaugeBall" Name="adi ball" SnapTarget="True" Locked="False">
+            <Control TypeIdentifier="Helios.Base.CustomGaugeBall" Name="adi ball" SnapTarget="True" Locked="True">
               <Location>37,36</Location>
               <Size>114,115</Size>
               <Hidden>False</Hidden>
@@ -3320,7 +3339,7 @@
               </Properties3D>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.ImageTranslucent" Name="shadow 1" SnapTarget="False" Locked="False">
+            <Control TypeIdentifier="Helios.Base.ImageTranslucent" Name="shadow 1" SnapTarget="False" Locked="True">
               <Image>MadKreator37\F-100D\Sphere.png</Image>
               <Alignment>Stretched</Alignment>
               <CornerRadius>0</CornerRadius>
@@ -3333,7 +3352,7 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.ImageTranslucent" Name="shadow" SnapTarget="False" Locked="False">
+            <Control TypeIdentifier="Helios.Base.ImageTranslucent" Name="shadow" SnapTarget="False" Locked="True">
               <Image>MadKreator37\F-100D\Round_Shadow.png</Image>
               <Alignment>Stretched</Alignment>
               <CornerRadius>0</CornerRadius>
@@ -3346,7 +3365,7 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.CustomGauge" Name="pointer" SnapTarget="True" Locked="False">
+            <Control TypeIdentifier="Helios.Base.CustomGauge" Name="pointer" SnapTarget="True" Locked="True">
               <Location>36,36</Location>
               <Size>114,115</Size>
               <Hidden>False</Hidden>
@@ -3365,7 +3384,7 @@
               <RotationTravel>360</RotationTravel>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.Image" Name="wings" SnapTarget="False" Locked="False">
+            <Control TypeIdentifier="Helios.Base.Image" Name="wings" SnapTarget="False" Locked="True">
               <Image>MadKreator37\F-100D\Needles_Tapes_Pointers\ADI_Wings.png</Image>
               <Alignment>Stretched</Alignment>
               <CornerRadius>0</CornerRadius>
@@ -3374,7 +3393,7 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.ImageTranslucent" Name="Translucent Image" SnapTarget="False" Locked="False">
+            <Control TypeIdentifier="Helios.Base.ImageTranslucent" Name="Translucent Image" SnapTarget="False" Locked="True">
               <Image>MadKreator37\F-100D\glass2_2.png</Image>
               <Alignment>Stretched</Alignment>
               <CornerRadius>0</CornerRadius>
@@ -3387,7 +3406,26 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.Image" Name="bezel" SnapTarget="False" Locked="False">
+            <Control TypeIdentifier="Helios.Base.CustomGauge" Name="CustomGauge" SnapTarget="True" Locked="True">
+              <Location>16,95</Location>
+              <Size>100,100</Size>
+              <Hidden>False</Hidden>
+              <BGPlateImage />
+              <KnobImage>MadKreator37\F-100D\Needles_Tapes_Pointers\ADI_Off.png</KnobImage>
+              <Needle_Scale>0.236933797909408</Needle_Scale>
+              <Needle_PosX>0.281620209059232</Needle_PosX>
+              <Needle_PosY>0.285191637630663</Needle_PosY>
+              <Needle_PivotX>0.271777003484321</Needle_PivotX>
+              <Needle_PivotY>0.292682926829268</Needle_PivotY>
+              <InitialValue>0</InitialValue>
+              <StepValue>0.1</StepValue>
+              <MaxValue>1</MaxValue>
+              <MinValue>0</MinValue>
+              <InitialRotation>343.693379790941</InitialRotation>
+              <RotationTravel>48.2926829268293</RotationTravel>
+              <Children />
+            </Control>
+            <Control TypeIdentifier="Helios.Base.Image" Name="bezel" SnapTarget="False" Locked="True">
               <Image>MadKreator37\F-100D\Bezels_And_Faces\ADI_Bezel.png</Image>
               <Alignment>Stretched</Alignment>
               <CornerRadius>0</CornerRadius>
@@ -3396,7 +3434,7 @@
               <Hidden>False</Hidden>
               <Children />
             </Control>
-            <Control TypeIdentifier="Helios.Base.Potentiometer" Name="Potentiometer" SnapTarget="True" Locked="False">
+            <Control TypeIdentifier="Helios.Base.Potentiometer" Name="Potentiometer" SnapTarget="True" Locked="True">
               <Location>145,147</Location>
               <Size>36,36</Size>
               <Hidden>False</Hidden>
@@ -11963,7 +12001,7 @@
               <Location>254,578</Location>
               <Size>23,90</Size>
               <Hidden>False</Hidden>
-              <DrumImage>MadKreator37\F-5E\Needles_And_Pointers\IFF _Channel_Spaced.png</DrumImage>
+              <DrumImage>MadKreator37\F-100D\Needles_Tapes_Pointers\IFF _Channel_Spaced.png</DrumImage>
               <Drum_PosX>-8</Drum_PosX>
               <Drum_PosY>0</Drum_PosY>
               <Drum_Width>70</Drum_Width>
@@ -16477,6 +16515,16 @@ else return(true) end</LuaScript>
     <Binding BypassCascadingTriggers="True">
       <Trigger Source="Interface;;Helios.DCSInterfaceFile;DCS F-100D" Name="Instruments.Magnetic Compass Roll.changed" />
       <Action Target="Visual;Monitor 1.Mag Compass Panel.Custom Gauge Cylinder;Helios.Base.CustomGaugeCylinder;Custom Gauge Cylinder" Name="set.Z Rotation" />
+      <TriggerValue />
+    </Binding>
+    <Binding BypassCascadingTriggers="True">
+      <Trigger Source="Interface;;Helios.DCSInterfaceFile;DCS F-100D" Name="Instruments.ADI Off Flag.changed" />
+      <Action Target="Visual;Monitor 1.ADI.CustomGauge;Helios.Base.CustomGauge;CustomGauge" Name="set.value" />
+      <TriggerValue />
+    </Binding>
+    <Binding BypassCascadingTriggers="True">
+      <Trigger Source="Interface;;Helios.DCSInterfaceFile;DCS F-100D" Name="Instruments.Standby ADI Off Flag.changed" />
+      <Action Target="Visual;Monitor 1.Standby ADI.CustomGauge;Helios.Base.CustomGauge;CustomGauge" Name="set.value" />
       <TriggerValue />
     </Binding>
     <Binding BypassCascadingTriggers="True">
